@@ -1,5 +1,32 @@
 # Getting Started with Create React App
 
+# Netflit GPT
+
+- Create react app
+- Tailwind configuration
+- Header
+- Login form
+- sign up form
+
+# Features:
+- Login/Sign up page
+    - sign in and signup form
+    - redirect to browse page after login
+- Browse Page (only comes after authentication)
+    - Header
+    - Main Movie
+        - Trailer in  background
+        - Title & Description
+        - Movie Suggestion
+            - moviesLists & vertical scrollable
+- Netflix GPT
+    - Search Bar
+    - Movie suggestions
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
