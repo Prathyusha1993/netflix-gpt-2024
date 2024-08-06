@@ -15,6 +15,9 @@
 - create signup user account
 - implement sign in user api
 - created redux store with userSlice
+- implementated sign out 
+- update profilr api from forebase
+- fetch movies from tmdb movies api
 
 # Features:
 - Login/Sign up page
