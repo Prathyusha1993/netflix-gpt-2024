@@ -9,7 +9,10 @@
 - Login form
 - sign up form
 - form validation
-- useRef
+- useRef hook
+- Firebase setup
+- deploy ap to production
+- create signup user account
 
 # Features:
 - Login/Sign up page
