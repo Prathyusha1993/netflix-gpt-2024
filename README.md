@@ -5,8 +5,11 @@
 - Create react app
 - Tailwind configuration
 - Header
+- Routing 
 - Login form
 - sign up form
+- form validation
+- useRef
 
 # Features:
 - Login/Sign up page
