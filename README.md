@@ -19,6 +19,14 @@
 - update profilr api from forebase
 - fetch movies from tmdb movies api
 - get data from TMDB api now playing movie list
+- custom hook for now palying movies
+- create movieslice and update store with movies data
+- planning for maincontainer and secondary container
+- fetch data for trailer video
+- update store with trailer video data
+- embedded the youtube vide and make it autoplay and mute
+- tailwind css to look awesome
+
 
 # Features:
 - Login/Sign up page
