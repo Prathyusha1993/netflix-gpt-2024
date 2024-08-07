@@ -18,6 +18,7 @@
 - implementated sign out 
 - update profilr api from forebase
 - fetch movies from tmdb movies api
+- get data from TMDB api now playing movie list
 
 # Features:
 - Login/Sign up page
