@@ -33,6 +33,11 @@
 - made browser page amazing using tailwind css
 - custom hook for popular movies, upcoming movies, trending movies, top rated movies.
 - button in header for GPT search feature
+- gpt search feature
+- gpt search bar
+- multi language feature i n our app
+- integrate gpt api's
+
 
 
 
