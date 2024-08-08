@@ -31,7 +31,9 @@
 - build movie card
 - tmdb image cdn utl
 - made browser page amazing using tailwind css
-- custom hook for popular movies
+- custom hook for popular movies, upcoming movies, trending movies, top rated movies.
+- button in header for GPT search feature
+
 
 
 # Features:
